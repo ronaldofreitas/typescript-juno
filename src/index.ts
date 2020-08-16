@@ -2,7 +2,7 @@ import Payment from './payment';
 
 const payment = new Payment();
 
-/*
+
 const auth = payment.auth();
 auth.then((res) => {
     console.log(res);
@@ -10,9 +10,9 @@ auth.then((res) => {
 .catch((error) => {
     console.error(error);
 });
-*/
 
 
+/*
 const saldo = payment.saldo();
 saldo.then((res) => {
     console.log(res);
@@ -20,7 +20,7 @@ saldo.then((res) => {
 .catch((error) => {
     console.error(error);
 });
-
+*/
 
 /*
 var capturar = true;
