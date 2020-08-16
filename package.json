@@ -1,0 +1,17 @@
+{
+  "name": "typescript-intg-juno",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
